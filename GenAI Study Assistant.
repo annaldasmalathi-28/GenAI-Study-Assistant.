@@ -1,0 +1,842 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>GenAI Study Assistant | Learn Smarter</title>
+
+    <meta name="description"
+        content="GenAI Study Assistant helps students learn concepts, create notes, practice quizzes, plan their studies and explore AI-powered learning workflows.">
+
+    <meta name="keywords"
+        content="Generative AI, AI Study Assistant, Student AI, AI Learning, GenAI, Study Planner">
+
+    <meta name="author" content="GenAI Study Assistant">
+</head>
+
+<body>
+
+<!-- =====================================================
+     HEADER
+===================================================== -->
+
+<header>
+
+    <table width="100%">
+
+        <tr>
+
+            <td>
+                <h1>🤖 GenAI Study Assistant</h1>
+
+                <p>
+                    <strong>Learn Smarter. Create Faster. Understand Better.</strong>
+                </p>
+            </td>
+
+            <td align="right">
+
+                <p>🧠 <strong>AI-Powered Learning</strong></p>
+
+                <p>
+                    <time datetime="2026-09-26">
+                        📅 September 2026
+                    </time>
+                </p>
+
+            </td>
+
+        </tr>
+
+    </table>
+
+    <hr>
+
+    <nav aria-label="Main Navigation">
+
+        <a href="index.html">Home</a> |
+        <a href="ai-assistant.html">AI Assistant</a> |
+        <a href="notes-generator.html">Notes Generator</a> |
+        <a href="quiz-generator.html">Quiz Generator</a> |
+        <a href="roadmap.html">Study Roadmap</a> |
+        <a href="project-ideas.html">Project Ideas</a> |
+        <a href="prompts.html">Prompt Library</a>
+
+    </nav>
+
+</header>
+
+
+<!-- =====================================================
+     MAIN CONTENT
+===================================================== -->
+
+<main>
+
+<!-- =====================================================
+     HERO
+===================================================== -->
+
+<section>
+
+    <h2>🚀 Your Personal Generative AI Study Companion</h2>
+
+    <p>
+        Learning doesn't have to mean searching through hundreds of
+        pages to understand one concept.
+    </p>
+
+    <p>
+        GenAI Study Assistant is designed to help students explore
+        concepts, create study material, practice questions,
+        discover project ideas and organize their learning journey.
+    </p>
+
+    <p>
+        <strong>
+            Ask. Learn. Practice. Build.
+        </strong>
+    </p>
+
+    <p>
+
+        <a href="ai-assistant.html">
+            🤖 Open AI Assistant
+        </a>
+
+        &nbsp;&nbsp;
+
+        <a href="roadmap.html">
+            🗺️ Create Study Roadmap
+        </a>
+
+    </p>
+
+</section>
+
+<hr>
+
+
+<!-- =====================================================
+     AI WORKSPACE
+===================================================== -->
+
+<section>
+
+    <h2>🧠 AI Learning Workspace</h2>
+
+    <p>
+        Choose what you want to accomplish today.
+    </p>
+
+    <table border="1" cellpadding="15" cellspacing="0" width="100%">
+
+        <tr>
+
+            <th>AI Feature</th>
+            <th>What It Does</th>
+            <th>Use It For</th>
+            <th>Open</th>
+
+        </tr>
+
+        <tr>
+
+            <td>
+                🤖 <strong>AI Assistant</strong>
+            </td>
+
+            <td>
+                Ask questions and explore concepts.
+            </td>
+
+            <td>
+                Doubt clarification
+            </td>
+
+            <td>
+                <a href="ai-assistant.html">
+                    Open
+                </a>
+            </td>
+
+        </tr>
+
+        <tr>
+
+            <td>
+                📝 <strong>Notes Generator</strong>
+            </td>
+
+            <td>
+                Convert topics into structured study notes.
+            </td>
+
+            <td>
+                Revision
+            </td>
+
+            <td>
+                <a href="notes-generator.html">
+                    Generate
+                </a>
+            </td>
+
+        </tr>
+
+        <tr>
+
+            <td>
+                ❓ <strong>Quiz Generator</strong>
+            </td>
+
+            <td>
+                Create practice questions from a topic.
+            </td>
+
+            <td>
+                Exam preparation
+            </td>
+
+            <td>
+                <a href="quiz-generator.html">
+                    Practice
+                </a>
+            </td>
+
+        </tr>
+
+        <tr>
+
+            <td>
+                🗺️ <strong>Study Roadmap</strong>
+            </td>
+
+            <td>
+                Organize a topic into a step-by-step learning path.
+            </td>
+
+            <td>
+                Skill development
+            </td>
+
+            <td>
+                <a href="roadmap.html">
+                    Explore
+                </a>
+            </td>
+
+        </tr>
+
+        <tr>
+
+            <td>
+                💡 <strong>Project Ideas</strong>
+            </td>
+
+            <td>
+                Discover project ideas based on your interests.
+            </td>
+
+            <td>
+                Portfolio building
+            </td>
+
+            <td>
+                <a href="project-ideas.html">
+                    Explore
+                </a>
+            </td>
+
+        </tr>
+
+    </table>
+
+</section>
+
+<hr>
+
+
+<!-- =====================================================
+     HOW IT WORKS
+===================================================== -->
+
+<section>
+
+    <h2>⚙️ How GenAI Study Assistant Works</h2>
+
+    <ol>
+
+        <li>
+            <strong>Choose a learning goal</strong>
+            <p>
+                Decide whether you want to learn, revise,
+                practice or build.
+            </p>
+        </li>
+
+        <li>
+            <strong>Provide your topic</strong>
+            <p>
+                Enter a subject, concept, programming language
+                or skill you want to explore.
+            </p>
+        </li>
+
+        <li>
+            <strong>Generate learning material</strong>
+            <p>
+                Use AI workflows to create explanations,
+                notes, questions and learning plans.
+            </p>
+        </li>
+
+        <li>
+            <strong>Practice and evaluate</strong>
+            <p>
+                Test your understanding through questions
+                and revision activities.
+            </p>
+        </li>
+
+        <li>
+            <strong>Build something</strong>
+            <p>
+                Turn your knowledge into a practical project.
+            </p>
+        </li>
+
+    </ol>
+
+</section>
+
+<hr>
+
+
+<!-- =====================================================
+     LEARNING MODES
+===================================================== -->
+
+<section>
+
+    <h2>🎯 Choose Your Learning Mode</h2>
+
+    <table border="1" cellpadding="15" width="100%">
+
+        <tr>
+
+            <th>Mode</th>
+            <th>Goal</th>
+            <th>Recommended For</th>
+
+        </tr>
+
+        <tr>
+
+            <td>📚 Learn</td>
+
+            <td>
+                Understand a new concept from the basics.
+            </td>
+
+            <td>
+                Beginners
+            </td>
+
+        </tr>
+
+        <tr>
+
+            <td>🔄 Revise</td>
+
+            <td>
+                Quickly review previously learned concepts.
+            </td>
+
+            <td>
+                Exams & tests
+            </td>
+
+        </tr>
+
+        <tr>
+
+            <td>🧪 Practice</td>
+
+            <td>
+                Test your understanding through questions.
+            </td>
+
+            <td>
+                Skill improvement
+            </td>
+
+        </tr>
+
+        <tr>
+
+            <td>💻 Build</td>
+
+            <td>
+                Convert knowledge into a practical project.
+            </td>
+
+            <td>
+                Developers & students
+            </td>
+
+        </tr>
+
+    </table>
+
+</section>
+
+<hr>
+
+
+<!-- =====================================================
+     SAMPLE AI PROMPTS
+===================================================== -->
+
+<section>
+
+    <h2>✨ Try These AI Prompts</h2>
+
+    <details>
+
+        <summary>
+            📖 Explain a difficult concept
+        </summary>
+
+        <p>
+            "Explain binary trees in simple language with a
+            real-world example and a small programming example."
+        </p>
+
+    </details>
+
+    <br>
+
+    <details>
+
+        <summary>
+            📝 Generate revision notes
+        </summary>
+
+        <p>
+            "Create concise revision notes for DBMS normalization
+            including 1NF, 2NF, 3NF and BCNF."
+        </p>
+
+    </details>
+
+    <br>
+
+    <details>
+
+        <summary>
+            ❓ Create a quiz
+        </summary>
+
+        <p>
+            "Create 10 multiple-choice questions on operating
+            system CPU scheduling with answers."
+        </p>
+
+    </details>
+
+    <br>
+
+    <details>
+
+        <summary>
+            💡 Generate project ideas
+        </summary>
+
+        <p>
+            "Give me five beginner-friendly AI project ideas
+            that I can build as a CSE student."
+        </p>
+
+    </details>
+
+</section>
+
+<hr>
+
+
+<!-- =====================================================
+     AI CONCEPTS
+===================================================== -->
+
+<section>
+
+    <h2>🧠 Explore Generative AI Concepts</h2>
+
+    <table border="1" cellpadding="12" width="100%">
+
+        <tr>
+
+            <th>Concept</th>
+            <th>What It Means</th>
+            <th>Level</th>
+
+        </tr>
+
+        <tr>
+
+            <td>
+                Generative AI
+            </td>
+
+            <td>
+                AI systems that can generate new content
+                such as text, images, audio or code.
+            </td>
+
+            <td>
+                Beginner
+            </td>
+
+        </tr>
+
+        <tr>
+
+            <td>
+                Prompt Engineering
+            </td>
+
+            <td>
+                Designing effective instructions for AI models.
+            </td>
+
+            <td>
+                Beginner
+            </td>
+
+        </tr>
+
+        <tr>
+
+            <td>
+                Large Language Models
+            </td>
+
+            <td>
+                AI models designed to understand and generate
+                human language.
+            </td>
+
+            <td>
+                Intermediate
+            </td>
+
+        </tr>
+
+        <tr>
+
+            <td>
+                AI Agents
+            </td>
+
+            <td>
+                AI systems that can perform multi-step tasks
+                using tools and reasoning workflows.
+            </td>
+
+            <td>
+                Intermediate
+            </td>
+
+        </tr>
+
+        <tr>
+
+            <td>
+                Multimodal AI
+            </td>
+
+            <td>
+                AI systems capable of working with multiple
+                types of information such as text, images and audio.
+            </td>
+
+            <td>
+                Intermediate
+            </td>
+
+        </tr>
+
+    </table>
+
+</section>
+
+<hr>
+
+
+<!-- =====================================================
+     STUDENT USE CASES
+===================================================== -->
+
+<section>
+
+    <h2>🎓 What Students Can Do</h2>
+
+    <ul>
+
+        <li>
+            Understand difficult academic concepts
+        </li>
+
+        <li>
+            Create quick revision notes
+        </li>
+
+        <li>
+            Generate practice questions
+        </li>
+
+        <li>
+            Build personalized study roadmaps
+        </li>
+
+        <li>
+            Brainstorm project ideas
+        </li>
+
+        <li>
+            Improve programming explanations
+        </li>
+
+        <li>
+            Prepare interview questions
+        </li>
+
+        <li>
+            Practice technical concepts
+        </li>
+
+    </ul>
+
+</section>
+
+<hr>
+
+
+<!-- =====================================================
+     RESPONSIBLE AI
+===================================================== -->
+
+<section>
+
+    <h2>⚠️ Use AI Responsibly</h2>
+
+    <p>
+        AI can be a powerful learning assistant, but it should
+        support your learning rather than replace it.
+    </p>
+
+    <ul>
+
+        <li>
+            ✅ Verify important information.
+        </li>
+
+        <li>
+            ✅ Understand the answer instead of copying it.
+        </li>
+
+        <li>
+            ✅ Use AI to practice and explore.
+        </li>
+
+        <li>
+            ❌ Do not blindly trust generated information.
+        </li>
+
+        <li>
+            ❌ Do not submit AI-generated work without understanding it.
+        </li>
+
+    </ul>
+
+</section>
+
+<hr>
+
+
+<!-- =====================================================
+     FUTURE FEATURES
+===================================================== -->
+
+<section>
+
+    <h2>🚀 Future Development</h2>
+
+    <p>
+        This project is designed to evolve from a static HTML
+        learning platform into a real AI-powered application.
+    </p>
+
+    <table border="1" cellpadding="12" width="100%">
+
+        <tr>
+
+            <th>Version</th>
+            <th>Technology</th>
+            <th>Planned Feature</th>
+
+        </tr>
+
+        <tr>
+
+            <td>Version 1</td>
+
+            <td>
+                HTML
+            </td>
+
+            <td>
+                Learning platform interface
+            </td>
+
+        </tr>
+
+        <tr>
+
+            <td>Version 2</td>
+
+            <td>
+                HTML + CSS
+            </td>
+
+            <td>
+                Modern responsive UI
+            </td>
+
+        </tr>
+
+        <tr>
+
+            <td>Version 3</td>
+
+            <td>
+                HTML + CSS + JavaScript
+            </td>
+
+            <td>
+                Interactive study tools
+            </td>
+
+        </tr>
+
+        <tr>
+
+            <td>Version 4</td>
+
+            <td>
+                JavaScript + GenAI API
+            </td>
+
+            <td>
+                Real AI-generated responses
+            </td>
+
+        </tr>
+
+        <tr>
+
+            <td>Version 5</td>
+
+            <td>
+                Full-stack + AI
+            </td>
+
+            <td>
+                Personalized AI learning assistant
+            </td>
+
+        </tr>
+
+    </table>
+
+</section>
+
+<hr>
+
+
+<!-- =====================================================
+     CALL TO ACTION
+===================================================== -->
+
+<section>
+
+    <h2>🌟 Start Your AI Learning Journey</h2>
+
+    <p>
+        Choose a topic, ask a question, practice what you learn
+        and build something meaningful.
+    </p>
+
+    <p>
+
+        <a href="ai-assistant.html">
+            🤖 Start with AI Assistant
+        </a>
+
+        &nbsp;&nbsp;
+
+        <a href="project-ideas.html">
+            💡 Explore Projects
+        </a>
+
+        &nbsp;&nbsp;
+
+        <a href="prompts.html">
+            ✨ Explore Prompts
+        </a>
+
+    </p>
+
+</section>
+
+</main>
+
+
+<!-- =====================================================
+     FOOTER
+===================================================== -->
+
+<footer>
+
+    <hr>
+
+    <h2>🤖 GenAI Study Assistant</h2>
+
+    <p>
+        <strong>Learn Smarter. Create Faster. Understand Better.</strong>
+    </p>
+
+    <p>
+        Built as a student-focused Generative AI learning project.
+    </p>
+
+    <nav>
+
+        <a href="index.html">Home</a> |
+        <a href="ai-assistant.html">AI Assistant</a> |
+        <a href="roadmap.html">Roadmap</a> |
+        <a href="prompts.html">Prompts</a>
+
+    </nav>
+
+    <p>
+        © 2026 GenAI Study Assistant
+    </p>
+
+</footer>
+
+</body>
+</html>
